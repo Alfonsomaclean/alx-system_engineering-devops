@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""Extending Python script, in task #0,
-   to export data in the JSON format"""
+"""using the JSONPlaceholder API:
+   export information about the TODO list progress for all employees IDs
+   to a file (JSON format), file name must be: todo_all_employees.json"""
 
 import json
 import requests
